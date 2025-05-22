@@ -1,0 +1,92 @@
+SL number	Organism	Name	Sequence	Comment	Tm
+SL1611	NA	SL1611_TR-Ahaem.out	ACGAGAGCTTTAGGTTCTTCAGAC	Abullah/Steffen wasp project	
+SL1612	NA	SL1612_TR-Ahaem.in	TTCCAAAAGAAGGGGTTTATGAG	Abullah/Steffen wasp project	
+SL1613	NA	SL1613_TR-Ahatt.cons.out	GRRKTTWAYGAGAATACCCTTSC	Abullah/Steffen wasp project	
+SL1614	NA	SL1614_TR-Ahatt.cons.in	TTTTTDATTGGAAGAAGGGCGA	Abullah/Steffen wasp project	
+SL1615	NA	SL1615_TR-Ahatt.OX92.out	AAATGGGAAACGCCAGGGAAAAA	Abullah/Steffen wasp project	
+SL1616	NA	SL1616_TR-Ahatt.OX92.mid	TCCAAAAGAAGGGGTTTAATGAGA	Abullah/Steffen wasp project	
+SL1617	NA	SL1617_TR-Ahatt.OX92.in	GCAGTTTTTGATTGGAAGAAGGGCG	Abullah/Steffen wasp project	
+SL1618	NA	SL1618_TR-Ahatt.OX93.out	AAATGGGAAACGCCAGGGAAAAA	Abullah/Steffen wasp project	
+SL1619	NA	SL1619_TR-Ahatt.OX93.mid	TGTAACGGCAAGAAGAGCTTTAGGC	Abullah/Steffen wasp project	
+SL1620	NA	SL1620_TR-Ahatt.OX93.in	AGACTTCCAAAAAGAAAGGGGGAGT	Abullah/Steffen wasp project	
+SL1621	NA	SL1621_TR-Ahatt.OX94.out	ACGCCAATTCTTCACAGGACTTCCA	Abullah/Steffen wasp project	
+SL1622	NA	SL1622_TR-Ahatt.OX94.in	ACGAGAATACCCTTCCCAGACTTAGGT	Abullah/Steffen wasp project	
+SL1623	NA	pGEM-Teasy-T7-F	TAATACGACTCACTATAGGGAGACCAATGGCGGCCGCGGGAATTCGAT	Primers for dsRNA synthesis from pGEM-Teasy vector; with T7 overhang	
+SL1624	NA	pGEM-Teasy-T7-R	TAATACGACTCACTATAGGGAGACCACGGCCGCGAATTCACTAGTGAT	Primers for dsRNA synthesis from pGEM-Teasy vector; with T7 overhang	
+SL1625	NA	NA	NA	Abullah/Steffen wasp project	
+SL1626	NA	NA	NA	Abullah/Steffen wasp project	
+SL1627	NA	NA	NA	Abullah/Steffen wasp project	
+SL1628	NA	NA	NA	Abullah/Steffen wasp project	
+SL1629	NA	Nested-Unversal primer	AAGCAGTGGTATCAACGCAGAGT	RACE nested universal primer	
+SL1630	Nasonia vitripennis	LOC116415954_F	TAATACGACTCACTATAGGGAGACCATGGAGGTCGTGTGGAAGCAACT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1631	Nasonia vitripennis	LOC116415954_R	TAATACGACTCACTATAGGGAGACCAGTTCCTGGCGGCGACTGTGA	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1632	Nasonia vitripennis	LOC116415816_R	TAATACGACTCACTATAGGGAGACCAACACTCGTACGTCGCATAAGT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1633	Nasonia vitripennis	LOC116415816_F	TAATACGACTCACTATAGGGAGACCACGATCGTTCGTCCTCCGCCA	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1634	Nasonia vitripennis	LOC107982198_F	TAATACGACTCACTATAGGGAGACCACGAGCCCTCCAGCGTTCTCC	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1635	Nasonia vitripennis	LOC107982198_R	TAATACGACTCACTATAGGGAGACCACGGCCGCGTTCGAGATCGTA	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1636	Nasonia vitripennis	LOC103317433_F	TAATACGACTCACTATAGGGAGACCACGGAGCCCTCGAAGCAAGCT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1637	Nasonia vitripennis	LOC103317433_R	TAATACGACTCACTATAGGGAGACCAAGAGTCCACCCCTCGCACCA	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1638	Nasonia vitripennis	LOC100678649_F	TAATACGACTCACTATAGGGAGACCAAGTTGTTGGTCCTGATGGCCCT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1639	Nasonia vitripennis	LOC100678649_R	TAATACGACTCACTATAGGGAGACCACGGCAACCTCTAGCCGAGGT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1640	Nasonia vitripennis	LOC100123230_F	TAATACGACTCACTATAGGGAGACCATTTTCCTGGGGTTGGCCGGG	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1641	Nasonia vitripennis	LOC100123230_R	TAATACGACTCACTATAGGGAGACCAGAAGACGAGGAGGAGCCGCG	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1642	Nasonia vitripennis	LOC100118450_F	TAATACGACTCACTATAGGGAGACCAAGCAGTCGGCCGTTTCGAGT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1643	Nasonia vitripennis	LOC100118450_R	TAATACGACTCACTATAGGGAGACCACGTGCTTCTGCAAGCTCGGC	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1644	Nasonia vitripennis	LOC100114777_F	TAATACGACTCACTATAGGGAGACCATGGAGGTGTCCTCAACAGTCT	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1645	Nasonia vitripennis	LOC100114777_R	TAATACGACTCACTATAGGGAGACCAATAGGGAGCGTCGCTGCTGC	Nasonia RNAi project [Andreas]; Primers with T7 overhang	
+SL1646	Nasonia vitripennis	Nvitr dpp FWD	GTGGTGGGCGAGGCGGTAAA	Nasonia RNAi project [Andreas]; Positive control	
+SL1647	Nasonia vitripennis	Nvitr dpp REV	CACGACCTTGTTCTCCTCGT	Nasonia RNAi project [Andreas]; Positive control	
+SL1648	Nasonia vitripennis	LOC103317433_F	ACGAACCACCAGGAAGCTGC	Nasonia RNAi project [Andreas]	
+SL1649	Nasonia vitripennis	LOC103317433_R	CGTTCTGGCGCAGTCTTCGA	Nasonia RNAi project [Andreas]	
+SL1650	Nasonia vitripennis	LOC107980745_R	TGGCACAAAAACATAAGATCTCTGCC	Nasonia RNAi project [Andreas]	
+SL1651	Nasonia vitripennis	LOC107980745_F	ACATGTATGAGATGTCTGCCAACGG	Nasonia RNAi project [Andreas]	
+SL1652	Nasonia vitripennis	LOC100678649_F	AGTGATCTTTACGCGTTACCATCAGT	Nasonia RNAi project [Andreas]	
+SL1653	Nasonia vitripennis	LOC100678649_R	CCGCATTAGAAGTTGATGGTTGTGG	Nasonia RNAi project [Andreas]	
+SL1654	Nasonia vitripennis	LOC100678203_R	TTGCAGAGTATGTTCTCGATCTGTGT	Nasonia RNAi project [Andreas]	
+SL1655	Nasonia vitripennis	LOC100678203_F	ATGATCGGCAGCGGCAGC	Nasonia RNAi project [Andreas]	
+SL1656	Nasonia vitripennis	LOC103316240_R	CAAGTTCTCCTGATCCAAGACGCA	Nasonia RNAi project [Andreas]	
+SL1657	Nasonia vitripennis	LOC103316240_F	ACGGCCTGATCGAACACCAG	Nasonia RNAi project [Andreas]	
+SL1658	Nasonia vitripennis	LOC100114467_R	GGATATCTCGCAGCCGCCTG	Nasonia RNAi project [Andreas]	
+SL1659	Nasonia vitripennis	LOC100679679_F	AACGCTAGAGGCAACGAGGC	Nasonia RNAi project [Andreas]	
+SL1660	Nasonia vitripennis	LOC100679679_R	TGGTGATGTTCGTGGCAGCT	Nasonia RNAi project [Andreas]	
+SL1661	Nasonia vitripennis	LOC100678204_F	CGCTGCTGCTACCTGTGTGT	Nasonia RNAi project [Andreas]	
+SL1662	Nasonia vitripennis	LOC100678204_R	GAGGTTCTCGTTGCGCTGGT	Nasonia RNAi project [Andreas]	
+SL1663	Nasonia vitripennis	LOC116738560_R	CGATCATCGCTTGTGGGGAGA	Nasonia RNAi project [Andreas]	
+SL1664	Nasonia vitripennis	LOC116738560_F	CTCGATCTCGTGGACGTGGC	Nasonia RNAi project [Andreas]	
+SL1665	Nasonia vitripennis	LOC100114467_F	CCAGTACATACGGCTGCGGG	Nasonia RNAi project [Andreas]	
+SL1666	Nasonia vitripennis	LOC116416688_F	TGTCGTTGAGCTGTGGTGAATCA	Nasonia RNAi project [Andreas]	
+SL1667	Nasonia vitripennis	LOC116416688_R	TCGGTGAGTTCGGGTTGGGT	Nasonia RNAi project [Andreas]	
+SL1668	Nasonia vitripennis	LOC100679204_F	AGACGTGGAATAGAGTGGGAGAGT	Nasonia RNAi project [Andreas]	
+SL1669	Nasonia vitripennis	LOC100679204_R	GGTTCGTGCAAACTTTCACTGCT	Nasonia RNAi project [Andreas]	
+SL1670	Nasonia vitripennis	LOC100678941_F	GGCTAGCTGCGACGACTACG	Nasonia RNAi project [Andreas]	
+SL1671	Nasonia vitripennis	LOC100678941_R	TCCTGGTCCTTCCTGCGGAA	Nasonia RNAi project [Andreas]	
+SL1672	Nasonia vitripennis	LOC107981687_R	GCGTGAATTACACCTGGACCGT	Nasonia RNAi project [Andreas]	
+SL1673	Nasonia vitripennis	LOC107981687_F	CAAGATCACAGTCGCCGCCA	Nasonia RNAi project [Andreas]	
+SL1674	Nasonia vitripennis	LOC116415816_F	AAGAGCAGATCATCCGCCGC	Nasonia RNAi project [Andreas]	
+SL1675	Nasonia vitripennis	LOC116415816_R	CGACGACAGTGGCGTTGAGA	Nasonia RNAi project [Andreas]	
+SL1676	Nasonia vitripennis	LOC107982053_R	TCTTCATCAGCGTGTTAGGGCG	Nasonia RNAi project [Andreas]	
+SL1677	Nasonia vitripennis	LOC107982053_F	CGCCGAGGCAACAATCCAGA	Nasonia RNAi project [Andreas]	
+SL1678	Nasonia vitripennis	LOC116415759_F	ACCACGATGGCAGAGGAAGTAGT	Nasonia RNAi project [Andreas]	
+SL1679	Nasonia vitripennis	LOC116415759_R	TTGTGTTGTTGGCGGGGTCC	Nasonia RNAi project [Andreas]	
+SL1680	Nasonia vitripennis	LOC100679266_R	TCGTTCACGAGTCAGTCCAGTTT	Nasonia RNAi project [Andreas]	
+SL1681	Nasonia vitripennis	LOC100679266_F	CTAGTCGCGTCACACTCGGC	Nasonia RNAi project [Andreas]	
+SL1682	Nasonia vitripennis	LOC100117475_F	GCGGCCAGTACAAACCCACT	Nasonia RNAi project [Andreas]	
+SL1683	Nasonia vitripennis	LOC100117475_R	AACTTGAACGACTGGGGCCG	Nasonia RNAi project [Andreas]	
+SL1684	Nasonia vitripennis	LOC103316059_R	ACTTTTTACAGCCATCTGGGAACAAGA	Nasonia RNAi project [Andreas]	
+SL1685	Nasonia vitripennis	LOC103316059_F	ATGGCTCCAAGAGTGCGCTG	Nasonia RNAi project [Andreas]	
+SL1686	Nasonia vitripennis	LOC116418319_R	CCTCCAGTTCCCAGTTTGTCCC	Nasonia RNAi project [Andreas]	
+SL1687	Nasonia vitripennis	LOC116418319_F	ACTAGGAGCGTCGGCAAGGA	Nasonia RNAi project [Andreas]	
+SL1688	Nasonia vitripennis	LOC100118450_F	AGGCATCGGTAAGCGCATCC	Nasonia RNAi project [Andreas]	
+SL1689	Nasonia vitripennis	LOC100118450_R	ATCGTCCTGCGTGCTTCTGC	Nasonia RNAi project [Andreas]	
+SL1690	Nasonia vitripennis	LOC100680135_F	CGTGTTGTGTTGTTGCCGCA	Nasonia RNAi project [Andreas]	
+SL1691	Nasonia vitripennis	LOC100680135_R	TTTCTGCCCAGACGTCGACG	Nasonia RNAi project [Andreas]	
+SL1692	Nasonia vitripennis	LOC116416160_R	GAAATGACATTTTTCGACCGGGCA	Nasonia RNAi project [Andreas]	
+SL1693	Nasonia vitripennis	LOC116416160_F	ATCAGCTTGCGTATCGGGCC	Nasonia RNAi project [Andreas]	
+SL1694	Nasonia vitripennis	LOC103316785_F	TGATGTTGGACCACGCAGCA	Nasonia RNAi project [Andreas]	
+SL1695	Nasonia vitripennis	LOC103316785_R	GGCGGGATTTTGGGTTGGGA	Nasonia RNAi project [Andreas]	
+SL1696	Nasonia vitripennis	CG14915_F	AGTACATTCAATACCAAACTGCCAAGC	Nasonia RNAi project [Andreas]	
+SL1697	Nasonia vitripennis	CG14915_R	TTTCTAATACAATGACTCTGGTTCCA	Nasonia RNAi project [Andreas]	
+SL1698	Nasonia vitripennis	CG13427_R	TGACTTAAAGGCCAGGCGTCTT	Nasonia RNAi project [Andreas]	
+SL1699	Nasonia vitripennis	CG13427_F	ACACGCACACACACCTTTCGA	Nasonia RNAi project [Andreas]	
+SL1700	Nasonia vitripennis	CG34214_R	TCATCGTATCTTTTTCCTCGACACAGT	Nasonia RNAi project [Andreas]	
+SL1701	Nasonia vitripennis	CG34214_F	ATAGCAGTGCCTGTGAAGTGCG	Nasonia RNAi project [Andreas]	
